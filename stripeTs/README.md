@@ -18,7 +18,7 @@ https://docs.google.com/presentation/d/1l4YoFbwfjWXarqHU4q-6OWETro9lk8Ux9yOM31q3
 
 
 ## Installation and configuration
-´
+```
 cd payment-system
 
 npm init -y
@@ -29,7 +29,7 @@ npm install -D typescript tsx prisma @types/express @types/node @types/cors
 
 npx tsc --init
 npx prisma init
-´
+```
 
 
 ## Making a payment request
